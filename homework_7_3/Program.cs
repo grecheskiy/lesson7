@@ -28,3 +28,13 @@ if (temp < MinSum)
 num = i;}}
 temp = 0;}
 return num;}
+
+//{if (i == 0) 
+//{sum += matr[i, j];
+//minSum += matr[i, j];}
+//else sum += matr[i, j];
+//if (sum < minSum)
+//{minSum = sum;
+//minNum = m;}
+//sum = 0;}
+//return minNum;
